@@ -6,7 +6,7 @@ MeetingMinutes is an AI-powered meeting recorder and meeting assistant designed 
 
 It supports workflows for business meetings, team collaboration, interviews, lectures, conferences, podcasts, online meetings, research discussions, and multilingual communication.
 
-**Official Website:** [http://www.meetingmin.com/]
+**Official Website:** [MeetingMinutes](https://www.meetingmin.com/)
 
 ---
 
@@ -895,7 +895,7 @@ See [LICENSE](LICENSE) for licensing information.
 
 # Official Resources
 
-* **Official Website:** [http://www.meetingmin.com/]
+* **Official Website:** [MeetingMinutes](https://www.meetingmin.com/)
 * **Documentation:** [Documentation](docs/product-overview.md)
 * **Feature Matrix:** [Feature Matrix](docs/feature-matrix.md)
 * **Use Cases:** [Use Cases](docs/use-cases.md)
