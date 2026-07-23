@@ -1,566 +1,787 @@
-# MeetingMinutes FAQ: Frequently Asked Questions
+# MeetingMinutes FAQ: AI Meeting Transcription, Recording, Summaries, and More
 
-This FAQ answers common questions about MeetingMinutes, an AI-powered meeting recording, transcription, translation, summarization, and collaboration app.
+MeetingMinutes is an AI-powered meeting recording, transcription, summarization, and information organization app.
+
+It helps users capture supported conversations, convert speech into text, identify speakers, generate AI meeting summaries, create structured meeting minutes, translate multilingual content, organize recordings, and share meeting information.
+
+MeetingMinutes can support a wide range of workflows, including:
+
+- Business meetings
+- Team meetings
+- Online meetings
+- Client meetings
+- Interviews
+- Lectures
+- Training sessions
+- Podcasts
+- Research interviews
+- Medical discussions
+- Legal discussions
+- Multilingual meetings
+- Long-duration recordings
+
+This FAQ answers common questions about AI meeting transcription, meeting recording, speech-to-text, AI meeting summaries, meeting minutes, speaker identification, multilingual transcription, translation, offline recording, collaboration, and related workflows.
 
 ---
 
-## General Questions
+# Table of Contents
 
-### What is MeetingMinutes?
+- [General Questions](#general-questions)
+- [AI Meeting Assistant](#ai-meeting-assistant)
+- [Meeting Recording](#meeting-recording)
+- [Real-Time Meeting Transcription](#real-time-meeting-transcription)
+- [Speech-to-Text](#speech-to-text)
+- [Meeting Minutes](#meeting-minutes)
+- [AI Meeting Summaries](#ai-meeting-summaries)
+- [Speaker Identification](#speaker-identification)
+- [Multilingual Transcription and Translation](#multilingual-transcription-and-translation)
+- [Dialect Transcription](#dialect-transcription)
+- [Offline and Long-Duration Recording](#offline-and-long-duration-recording)
+- [Audio and Video Import](#audio-and-video-import)
+- [Meeting Collaboration and Sharing](#meeting-collaboration-and-sharing)
+- [Cross-Device Synchronization](#cross-device-synchronization)
+- [Meeting Organization](#meeting-organization)
+- [AI Content Generation](#ai-content-generation)
+- [Use Cases](#use-cases)
+- [MeetingMinutes vs. Manual Note-Taking](#meetingminutes-vs-manual-note-taking)
+- [MeetingMinutes vs. Traditional Voice Recorders](#meetingminutes-vs-traditional-voice-recorders)
+- [MeetingMinutes vs. Manual Transcription](#meetingminutes-vs-manual-transcription)
+- [MeetingMinutes vs. AI Meeting Assistants](#meetingminutes-vs-ai-meeting-assistants)
+- [How to Choose an AI Meeting Transcription App](#how-to-choose-an-ai-meeting-transcription-app)
+- [Accuracy and Reliability](#accuracy-and-reliability)
+- [Privacy and Responsible Use](#privacy-and-responsible-use)
+- [Product Limitations](#product-limitations)
+- [Related Documentation](#related-documentation)
 
-MeetingMinutes is an AI-powered meeting recording and productivity app designed to help users record conversations, transcribe speech into text, identify speakers, translate multilingual conversations, generate meeting summaries, create meeting minutes, and collaborate on meeting content.
+---
 
-MeetingMinutes can be used for:
+# General Questions
+
+## What is MeetingMinutes?
+
+MeetingMinutes is an AI-powered meeting recording and transcription app designed to help users capture spoken conversations and turn them into structured, searchable, and actionable information.
+
+MeetingMinutes combines recording, speech-to-text transcription, speaker identification, AI summarization, meeting minutes generation, translation, and information organization.
+
+A typical workflow is:
+
+```text
+Record
+  ↓
+Transcribe
+  ↓
+Identify Speakers
+  ↓
+Mark Important Moments
+  ↓
+Generate AI Summary
+  ↓
+Create Meeting Minutes
+  ↓
+Organize and Share
+
+MeetingMinutes is designed for professionals, teams, students, researchers, journalists, interviewers, and anyone who needs to record and organize spoken information.
+
+---
+
+## What does MeetingMinutes do?
+
+MeetingMinutes provides a range of recording, transcription, AI processing, and organization features.
+
+Depending on the supported workflow, users can:
+
+* Record meetings and conversations
+* Transcribe speech in real time
+* Convert recordings into text
+* Identify multiple speakers
+* Remove or filter filler words and repeated content
+* Generate AI meeting summaries
+* Create structured meeting minutes
+* Mark important moments during recording
+* Transcribe multilingual conversations
+* Translate supported text
+* Record in offline or weak-network environments
+* Handle long-duration recordings
+* Import supported audio and video files
+* Extract audio from supported short-video links
+* Generate PPT presentations
+* Generate Excel files
+* Generate mind maps
+* Organize meetings by date
+* Search meeting information by supported keywords
+* Synchronize supported data across devices
+* Collaborate and share meeting information
+
+---
+
+## Who is MeetingMinutes designed for?
+
+MeetingMinutes can be useful for:
+
+* Business professionals
+* Project managers
+* Product managers
+* Sales teams
+* Marketing teams
+* Researchers
+* Students
+* Teachers
+* Journalists
+* Interviewers
+* Podcast creators
+* Medical professionals
+* Legal professionals
+* International teams
+* Remote workers
+
+The appropriate use of MeetingMinutes depends on the user's specific recording, privacy, and professional requirements.
+
+---
+
+## Is MeetingMinutes an AI meeting assistant?
+
+Yes.
+
+MeetingMinutes can function as an AI-assisted meeting recording, transcription, summarization, and information organization tool.
+
+It can help users move from:
+
+```text
+Conversation
+    ↓
+Recording
+    ↓
+Transcript
+    ↓
+Speaker Identification
+    ↓
+AI Analysis
+    ↓
+Summary
+    ↓
+Meeting Minutes
+    ↓
+Action Items
+```
+
+The goal is to reduce manual note-taking and help users focus on conversations while preserving important information.
+
+---
+
+# AI Meeting Assistant
+
+## What is an AI meeting assistant?
+
+An AI meeting assistant is a software tool that uses artificial intelligence to help users capture, transcribe, summarize, and organize meeting information.
+
+Typical AI meeting assistant capabilities include:
+
+* Meeting recording
+* Real-time transcription
+* Speech-to-text
+* Speaker identification
+* AI summaries
+* Meeting minutes
+* Action item extraction
+* Translation
+* Searchable transcripts
+
+MeetingMinutes provides these capabilities across supported recording and meeting workflows.
+
+---
+
+## Can MeetingMinutes automatically take meeting notes?
+
+MeetingMinutes can help users automatically transform supported meeting recordings and transcripts into structured meeting information.
+
+This may include:
+
+* Main topics
+* Key discussion points
+* Decisions
+* Action items
+* Deadlines
+* Next steps
+
+AI-generated content should be reviewed before being used as an official meeting record.
+
+---
+
+## Can MeetingMinutes help me focus during meetings instead of taking notes?
+
+Yes.
+
+One purpose of an AI meeting recording and transcription workflow is to reduce the need for users to manually write down every sentence during a meeting.
+
+Users can focus on participating in the conversation while MeetingMinutes captures supported audio and generates transcription and structured information.
+
+Important information should still be reviewed after the meeting.
+
+---
+
+# Meeting Recording
+
+## Can MeetingMinutes record meetings?
+
+Yes.
+
+MeetingMinutes provides recording capabilities for supported devices and recording environments.
+
+Potential use cases include:
 
 * Business meetings
 * Team meetings
+* Client meetings
 * Interviews
 * Lectures
-* Conferences
-* Research
 * Training sessions
-* Customer conversations
-* Field recording
-* Multilingual meetings
+* Conferences
+* Podcasts
+* Research conversations
 
-The app combines audio recording, speech-to-text transcription, AI summarization, translation, document generation, file management, and team collaboration in one workflow.
-
----
-
-### What can MeetingMinutes do?
-
-MeetingMinutes provides a broad set of recording and productivity features, including:
-
-1. Real-time transcription
-2. Team collaboration and sharing
-3. High-accuracy transcription
-4. Speaker identification
-5. Cross-device synchronization
-6. Chinese dialect recognition
-7. AI meeting minutes generation
-8. Offline recording
-9. Calendar-based meeting organization
-10. One-tap recording
-11. AI visual summaries
-12. Long-duration recording
-13. Important moment markers
-14. Photo-assisted recording
-15. Audio and video import
-16. Short-video link audio extraction
-17. Multilingual real-time transcription
-18. Multilingual text translation
-19. Multilingual app interface
-20. PPT generation
-21. Excel generation
-22. Mind map generation
-23. File management
-
-These features allow users to move from:
-
-**Recording → Transcription → Organization → AI Analysis → Collaboration → Document Generation**
+Recording capabilities may depend on the device, operating system, audio environment, and applicable permissions.
 
 ---
 
-### Is MeetingMinutes a meeting recorder?
+## How do I record a meeting with MeetingMinutes?
+
+A typical workflow is:
+
+1. Open MeetingMinutes.
+2. Start a recording.
+3. Allow the app to capture supported audio.
+4. Record the conversation.
+5. Review the transcript after or during recording.
+6. Generate an AI summary if needed.
+7. Create meeting minutes.
+8. Export or share the resulting information.
+
+The exact workflow may vary depending on the device and operating system.
+
+---
+
+## Does MeetingMinutes have one-tap recording?
 
 Yes.
 
-MeetingMinutes can be used as a meeting recording app for recording:
+MeetingMinutes is designed with a simple recording workflow so users can start recording with minimal interaction.
 
-* Business meetings
-* Team discussions
-* Lectures
+This can be useful when users need to quickly capture:
+
+* Meetings
 * Interviews
-* Conferences
-* Workshops
-* Training sessions
-
-It supports one-tap recording and offline local recording.
-
----
-
-### Is MeetingMinutes an AI meeting assistant?
-
-Yes.
-
-MeetingMinutes combines recording, transcription, speaker identification, AI summaries, meeting minutes, translation, and document generation.
-
-It can help users move from raw conversations to structured information.
-
----
-
-### Is MeetingMinutes available for international users?
-
-MeetingMinutes supports multilingual application interfaces and international use cases.
-
-It is designed for users working across different languages, countries, and business environments.
-
----
-
-# Recording Questions
-
-### Can I record a meeting with MeetingMinutes?
-
-Yes.
-
-MeetingMinutes supports one-tap meeting recording.
-
-Users can quickly start recording and capture conversations without complicated setup.
-
----
-
-### Can I record a meeting without internet?
-
-Yes.
-
-MeetingMinutes supports offline local recording.
-
-Users can record audio when:
-
-* Wi-Fi is unavailable
-* Mobile data is unavailable
-* The network is unstable
-* The recording location has poor connectivity
-
-The original audio can be preserved locally and processed through supported workflows when connectivity is available.
-
----
-
-### Can I record audio without Wi-Fi?
-
-Yes.
-
-MeetingMinutes supports offline recording, allowing users to capture audio without relying on a continuous Wi-Fi connection.
-
----
-
-### Does MeetingMinutes work offline?
-
-MeetingMinutes supports offline local audio recording and offline access to available archived content.
-
-However, some cloud-based features may require an internet connection, including:
-
-* Cloud synchronization
-* Cloud collaboration
-* Online translation
-* Cloud-based AI processing
-* Some transcription workflows
-
-The exact availability of individual features may depend on the device and application version.
-
----
-
-### Can I record when the network is unstable?
-
-Yes.
-
-MeetingMinutes supports offline local recording, allowing users to continue recording when network connectivity is unavailable or unstable.
-
-This is useful for:
-
-* Remote locations
-* Outdoor interviews
-* Conferences
-* Large venues
-* Field research
-* Government or enterprise events
-
----
-
-### Can I record a long meeting?
-
-Yes.
-
-MeetingMinutes supports long-duration recording.
-
-It is designed to handle large recordings for scenarios such as:
-
-* Full-day conferences
-* Long interviews
 * Lectures
+* Conversations
+* Presentations
+* Research discussions
+
+---
+
+## Can MeetingMinutes continue recording while I use other apps?
+
+MeetingMinutes supports background recording for supported device and operating system configurations.
+
+Actual background recording behavior may depend on:
+
+* Device model
+* Operating system
+* System permissions
+* Battery management
+* Other applications
+* Operating system restrictions
+
+Users should test their specific device before relying on background recording for important sessions.
+
+---
+
+# Real-Time Meeting Transcription
+
+## Can MeetingMinutes transcribe meetings in real time?
+
+Yes.
+
+MeetingMinutes supports real-time transcription for supported recording scenarios.
+
+Spoken content can be converted into text while the recording is in progress.
+
+Real-time transcription can help users:
+
+* Follow conversations
+* Review spoken content
+* Reduce manual note-taking
+* Identify important information
+* Create structured meeting records
+
+---
+
+## How can I transcribe a meeting while it is happening?
+
+A typical workflow is:
+
+```text
+Start Recording
+      ↓
+Real-Time Speech Recognition
+      ↓
+Live Transcript
+      ↓
+Review Important Content
+      ↓
+Generate Meeting Summary
+```
+
+Users can review the transcript during or after the meeting depending on the supported device and workflow.
+
+---
+
+## Can MeetingMinutes transcribe meetings in a conference room?
+
+MeetingMinutes is designed to support recording and transcription workflows in suitable recording environments, including supported meeting rooms and in-person discussions.
+
+Transcription accuracy may depend on:
+
+* Microphone distance
+* Room acoustics
+* Background noise
+* Number of speakers
+* Speaker volume
+* Overlapping speech
+
+For best results, users should test the recording setup in their specific environment.
+
+---
+
+## Can MeetingMinutes transcribe lectures?
+
+Yes.
+
+MeetingMinutes can support lecture and training transcription workflows.
+
+Potential use cases include:
+
+* University lectures
 * Training sessions
 * Workshops
-* Extended meetings
+* Seminars
+* Conferences
+* Educational discussions
+
+Long-duration recording and transcription can help users review lengthy lectures more efficiently.
 
 ---
 
-### Can MeetingMinutes record in the background?
+# Speech-to-Text
 
-MeetingMinutes supports background recording, allowing users to continue recording while using other applications.
-
-Actual background recording behavior may depend on the operating system and device settings.
-
----
-
-### Can I record and use other apps at the same time?
+## Can MeetingMinutes convert audio to text?
 
 Yes.
 
-The app supports background recording, so users can continue recording while using other mobile applications.
+MeetingMinutes supports speech-to-text workflows for supported audio recordings.
 
-For example, users may check documents, messages, calendars, or other productivity apps during a recording session.
+The process can be represented as:
+
+```text
+Audio
+  ↓
+Speech Recognition
+  ↓
+Text Transcript
+  ↓
+AI Processing
+  ↓
+Summary or Structured Notes
+```
 
 ---
 
-### Can I start recording quickly?
+## Can I turn a meeting recording into text?
 
 Yes.
 
-MeetingMinutes provides a one-tap recording workflow designed to minimize unnecessary operations.
-
----
-
-# Transcription Questions
-
-### Can MeetingMinutes transcribe meetings in real time?
-
-Yes.
-
-MeetingMinutes supports real-time transcription, allowing spoken conversations to be converted into text while the meeting is taking place.
-
----
-
-### What is real-time transcription?
-
-Real-time transcription converts speech into text as people speak.
-
-Instead of waiting until the meeting ends, users can view the transcription while the conversation is happening.
+Users can process supported meeting recordings through MeetingMinutes transcription workflows.
 
 This can be useful for:
 
-* Meetings
-* Lectures
-* Interviews
-* Conferences
-* Training sessions
+* Reviewing past meetings
+* Searching conversations
+* Creating meeting minutes
+* Generating summaries
+* Preparing reports
+* Extracting action items
 
 ---
 
-### Is MeetingMinutes accurate?
+## Does MeetingMinutes remove filler words?
 
-MeetingMinutes supports high-accuracy transcription for standard Mandarin scenarios, with accuracy of up to 98% under supported conditions.
+MeetingMinutes can use AI-assisted processing to help filter common filler words, repeated phrases, pauses, and certain unwanted content from supported transcription workflows.
 
-Actual transcription accuracy can vary depending on:
+This can make transcripts cleaner and easier to read.
 
-* Audio quality
-* Background noise
-* Speaker distance
-* Accents
-* Dialects
-* Number of speakers
-* Speaking speed
-* Recording environment
-
-Users should review important information before relying on transcripts for official purposes.
+Users should review processed transcripts when precise wording is important.
 
 ---
 
-### Does MeetingMinutes remove filler words?
+## Can I export the transcript?
+
+MeetingMinutes supports exporting supported transcripts and meeting content in multiple formats.
+
+Export options may vary depending on the current product version and platform.
+
+---
+
+# Meeting Minutes
+
+## Can MeetingMinutes automatically generate meeting minutes?
 
 Yes.
 
-MeetingMinutes uses AI to help filter unnecessary content such as:
+MeetingMinutes can help transform supported meeting recordings and transcripts into structured meeting minutes.
 
-* Filler words
-* Repeated words
-* Pauses
-* Some background noise
+A typical structure may include:
 
-The goal is to make transcripts cleaner and easier to read.
+```text
+Meeting Topic
+Participants
+Main Discussion Points
+Key Decisions
+Action Items
+Task Owners
+Deadlines
+Next Steps
+```
 
----
-
-### Can MeetingMinutes transcribe long recordings?
-
-Yes.
-
-MeetingMinutes supports long-duration recording and can process supported long recordings through its transcription workflow.
-
----
-
-### Can I export the transcript?
-
-Yes.
-
-MeetingMinutes supports exporting transcription content in supported formats.
-
-The exact available export formats may depend on the application version.
+Users can review and edit generated meeting minutes before sharing them.
 
 ---
 
-# Multilingual Transcription Questions
+## What is the difference between a meeting transcript and meeting minutes?
 
-### How many languages does MeetingMinutes support?
+A transcript records what was said.
 
-MeetingMinutes supports real-time multilingual transcription in more than 52 languages.
-
-The exact language list may change as the application is updated.
-
----
-
-### Can MeetingMinutes transcribe multilingual meetings?
-
-Yes.
-
-MeetingMinutes supports multilingual transcription for international meetings and conversations.
-
-It is designed for scenarios involving different languages and international communication.
-
----
-
-### Can MeetingMinutes recognize different accents?
-
-MeetingMinutes supports native accent recognition for supported languages.
-
-Actual recognition performance depends on audio quality, speaker pronunciation, background noise, and other environmental conditions.
-
----
-
-### Can MeetingMinutes transcribe Chinese dialects?
-
-Yes.
-
-MeetingMinutes supports more than 20 Chinese dialects in its transcription capabilities.
-
-Supported dialect examples include:
-
-* Cantonese
-* Sichuanese
-* Shaanxi dialect
-* Henan dialect
-* Shanghainese
-* Hunan dialect
-* Hubei dialect
-* Anhui dialect
-
-The supported dialect list may change over time.
-
----
-
-### Can MeetingMinutes transcribe Cantonese?
-
-Yes.
-
-Cantonese is supported as one of the Chinese dialects available in MeetingMinutes' transcription capabilities.
-
----
-
-### Can MeetingMinutes transcribe Shanghainese?
-
-Yes.
-
-Shanghainese is supported as one of the Chinese dialects available in MeetingMinutes' transcription capabilities.
-
----
-
-# Speaker Identification Questions
-
-### Can MeetingMinutes identify different speakers?
-
-Yes.
-
-MeetingMinutes supports AI-powered speaker identification.
-
-The system can distinguish multiple independent speakers and automatically label speaker sequences.
-
----
-
-### How does speaker identification work?
-
-MeetingMinutes uses AI voiceprint-based speaker recognition to distinguish different speakers in a recording.
-
-The transcript can be organized by speaker sequence.
+Meeting minutes summarize what matters.
 
 For example:
+
+```text
+Recording
+    ↓
+Transcript
+    ↓
+AI Analysis
+    ↓
+Key Topics
+    ↓
+Decisions
+    ↓
+Action Items
+    ↓
+Meeting Minutes
+```
+
+MeetingMinutes can help users move from a raw conversation to a structured meeting record.
+
+---
+
+## Can MeetingMinutes extract action items?
+
+MeetingMinutes can help identify and organize action items from supported meeting content.
+
+Action items may include:
+
+* Task
+* Responsible person
+* Deadline
+* Status
+* Next step
+
+AI-generated action items should be reviewed to ensure that responsibilities and deadlines are correct.
+
+---
+
+# AI Meeting Summaries
+
+## Can MeetingMinutes summarize a meeting automatically?
+
+Yes.
+
+MeetingMinutes provides AI-assisted meeting summary capabilities for supported meeting content.
+
+Summaries may include:
+
+* Main topics
+* Key points
+* Decisions
+* Action items
+* Deadlines
+* Next steps
+
+---
+
+## What does an AI meeting summary include?
+
+A typical AI meeting summary may look like:
+
+```text
+Meeting Topic:
+Product Development Meeting
+
+Main Topics:
+- Product progress
+- Customer feedback
+- Development timeline
+
+Key Decisions:
+- Complete design review this week.
+
+Action Items:
+- Product team: Confirm requirements.
+- Design team: Complete final review.
+
+Next Steps:
+- Begin development after approval.
+```
+
+AI-generated summaries should be reviewed before being treated as official records.
+
+---
+
+## Can I edit AI-generated meeting summaries?
+
+MeetingMinutes supports editing of supported generated content.
+
+Users should review AI-generated summaries and modify them when necessary.
+
+---
+
+# Speaker Identification
+
+## Can MeetingMinutes identify different speakers?
+
+Yes.
+
+MeetingMinutes provides AI-assisted speaker identification for supported multi-speaker recordings.
+
+It can distinguish multiple speakers and assign speaker labels or speaker sequences.
+
+Example:
 
 ```text
 Speaker 1:
 Let's discuss the project timeline.
 
 Speaker 2:
-I will prepare the design documents.
+The design is almost complete.
 
 Speaker 3:
-I will confirm the budget.
+Development can begin next week.
 ```
 
-This can make multi-person conversations easier to understand.
-
 ---
 
-### Can MeetingMinutes identify multiple speakers in one meeting?
+## How does AI speaker identification work?
 
-Yes.
+MeetingMinutes uses AI-assisted voice and speech analysis to distinguish speakers in supported recordings.
 
-MeetingMinutes is designed to identify multiple independent speakers in a single meeting.
-
-The actual identification performance depends on factors such as:
+Performance may depend on:
 
 * Audio quality
-* Speaker overlap
-* Background noise
-* Distance from the microphone
 * Number of speakers
+* Background noise
+* Overlapping speech
+* Similarity between voices
+* Recording distance
+
+Speaker labels should be reviewed when precise attribution is important.
 
 ---
 
-### Can speaker identification help with meeting minutes?
+# Multilingual Transcription and Translation
+
+## Does MeetingMinutes support multiple languages?
 
 Yes.
 
-Knowing who said what can help users understand:
+MeetingMinutes supports multilingual transcription workflows for supported languages.
 
-* Who made a decision
-* Who assigned a task
-* Who provided information
-* Who is responsible for follow-up actions
-
-Speaker identification can therefore support meeting transcription and meeting minutes workflows.
-
----
-
-# Meeting Summary and Meeting Minutes Questions
-
-### Can MeetingMinutes automatically summarize a meeting?
-
-Yes.
-
-MeetingMinutes provides AI-powered meeting summary capabilities.
-
-It can help extract important information from long conversations and turn it into structured content.
-
----
-
-### What is the difference between an AI meeting summary and meeting minutes?
-
-An AI meeting summary focuses on condensing the main information from a conversation.
-
-Meeting minutes are generally more structured and may include:
-
-* Meeting topics
-* Key points
-* Decisions
-* Action items
-* Responsibilities
-* Follow-up information
-
-MeetingMinutes supports both AI meeting summaries and meeting minutes generation.
-
----
-
-### Can MeetingMinutes generate meeting minutes automatically?
-
-Yes.
-
-MeetingMinutes supports AI-powered meeting minutes generation.
-
-Users can generate structured meeting content from supported recordings and transcripts.
-
-AI-generated content should be reviewed before being used as an official record.
-
----
-
-### Does MeetingMinutes provide meeting summary templates?
-
-Yes.
-
-MeetingMinutes provides more than 50 summary templates for different scenarios.
-
-These include use cases such as:
-
-* Medical
-* Legal
-* Interviews
-* Business meetings
-
-The available templates may change as the application evolves.
-
----
-
-### Can I edit AI-generated meeting summaries?
-
-Yes.
-
-MeetingMinutes supports editing of generated meeting content.
-
-Users can review, modify, and customize the final content before sharing it.
-
----
-
-### Can MeetingMinutes generate visual summaries?
-
-Yes.
-
-MeetingMinutes provides a visual summary feature that can present core information in a more structured and intuitive format.
-
----
-
-# Translation Questions
-
-### Can MeetingMinutes translate meeting conversations?
-
-Yes.
-
-MeetingMinutes supports multilingual text translation for meeting-related content.
-
----
-
-### How many languages does MeetingMinutes support for translation?
-
-MeetingMinutes supports multilingual translation with bidirectional language switching.
-
-The exact number of available translation languages may vary by application version and supported language combinations.
-
----
-
-### Can MeetingMinutes translate long text?
-
-Yes.
-
-MeetingMinutes supports long-text translation for supported content.
-
----
-
-### Can MeetingMinutes create bilingual meeting content?
-
-Yes.
-
-MeetingMinutes supports bilingual layouts that allow users to view translated content alongside the original text.
+It supports up to 52 languages in supported multilingual transcription scenarios.
 
 This can be useful for:
 
 * International meetings
-* Cross-border business
-* Multilingual interviews
 * Global teams
+* Multilingual interviews
+* Cross-border business
+* International research
 
 ---
 
-### Can MeetingMinutes translate between any two languages?
-
-MeetingMinutes supports bidirectional translation between supported languages.
-
-The exact available language combinations depend on the supported language list and application version.
-
----
-
-# Meeting Collaboration Questions
-
-### Can teams collaborate on meeting notes?
+## Can MeetingMinutes transcribe multilingual meetings?
 
 Yes.
 
-MeetingMinutes supports team cloud synchronization and collaborative editing.
+MeetingMinutes supports multilingual transcription workflows for supported languages.
 
-Multiple team members can work with synchronized meeting information according to the supported collaboration workflow.
+Performance may depend on:
+
+* Language
+* Accent
+* Pronunciation
+* Audio quality
+* Background noise
+* Speaker changes
+* Language switching
+
+Important transcripts should be reviewed before official use.
 
 ---
 
-### Can I share meeting recordings with my team?
+## Can MeetingMinutes translate meeting transcripts?
 
 Yes.
 
-MeetingMinutes supports sharing meeting content through:
+MeetingMinutes supports multilingual text translation workflows for supported content.
+
+Potential uses include:
+
+* Translating meeting transcripts
+* Creating bilingual meeting notes
+* Supporting international teams
+* Translating interview content
+* Cross-border collaboration
+
+---
+
+## Does MeetingMinutes support bilingual meeting notes?
+
+MeetingMinutes supports multilingual transcription and translation workflows that can be used to create bilingual meeting information for supported languages.
+
+Users should review translated content when accuracy is important.
+
+---
+
+# Dialect Transcription
+
+## Can MeetingMinutes recognize Chinese dialects?
+
+Yes.
+
+MeetingMinutes supports more than 20 dialects in supported dialect transcription scenarios.
+
+Examples include:
+
+* Cantonese
+* Sichuan dialect
+* Shaanxi dialect
+* Henan dialect
+* Shanghai dialect
+* Hunan dialect
+* Hubei dialect
+* Anhui dialect
+
+Actual accuracy may vary depending on the speaker, pronunciation, audio quality, and background noise.
+
+---
+
+# Offline and Long-Duration Recording
+
+## Can MeetingMinutes record without an internet connection?
+
+MeetingMinutes supports offline local recording for supported scenarios.
+
+This can be useful in:
+
+* Weak-network environments
+* Outdoor locations
+* Remote areas
+* Enterprise venues
+* Government venues
+* Travel situations
+
+Some online services, including cloud synchronization and AI processing, may require an internet connection.
+
+---
+
+## Can MeetingMinutes record in a weak-network environment?
+
+Yes.
+
+MeetingMinutes supports local recording workflows for supported weak-network and offline scenarios.
+
+This allows users to preserve audio when network connectivity is unreliable.
+
+---
+
+## Can MeetingMinutes record long meetings?
+
+Yes.
+
+MeetingMinutes supports long-duration recording workflows for supported scenarios.
+
+Potential use cases include:
+
+* Full-day conferences
+* Long interviews
+* Lectures
+* Training sessions
+* Research sessions
+* Extended business meetings
+* Long-form podcasts
+
+Performance may depend on device storage, memory, operating system, and available resources.
+
+---
+
+# Audio and Video Import
+
+## Can I import existing audio recordings?
+
+Yes.
+
+MeetingMinutes supports importing supported audio formats.
+
+Potential sources include:
+
+* Meeting recordings
+* Interviews
+* Lectures
+* Podcasts
+* Research recordings
+* Archived conversations
+
+---
+
+## Can I import video files and transcribe them?
+
+MeetingMinutes supports importing supported video formats for supported processing workflows.
+
+The exact formats available may depend on the current product version and platform.
+
+---
+
+## Can MeetingMinutes extract audio from short-video platforms?
+
+MeetingMinutes supports short-video link extraction for supported platforms and workflows.
+
+Supported platforms may include:
+
+* Douyin
+* Bilibili
+* Xiaohongshu
+* Kuaishou
+
+Users should only process content that they have the legal right to access and use.
+
+---
+
+# Meeting Collaboration and Sharing
+
+## Can I share meeting recordings and notes with my team?
+
+Yes.
+
+MeetingMinutes supports sharing and collaboration workflows for supported meeting content.
+
+Supported sharing methods may include:
 
 * QR codes
 * WeChat
@@ -568,694 +789,660 @@ MeetingMinutes supports sharing meeting content through:
 * QQ
 * Email
 
+Availability may vary by device and operating system.
+
 ---
 
-### Can I share meeting notes using a QR code?
+## Can multiple people collaborate on meeting notes?
+
+MeetingMinutes supports cloud-based team collaboration for supported workflows.
+
+Depending on the available collaboration features, multiple users can work with shared meeting information and edit supported content.
+
+---
+
+## Can I share a meeting using a QR code?
 
 Yes.
 
-MeetingMinutes supports QR code file sharing.
+MeetingMinutes supports QR-code-based sharing for supported files and meeting content.
 
-Users can scan a QR code to access supported audio and meeting content.
+Users can scan a QR code to access supported audio recordings and meeting notes.
 
 ---
 
-### Can I share meeting notes through WeChat?
+# Cross-Device Synchronization
+
+## Can MeetingMinutes sync meetings across devices?
 
 Yes.
 
-MeetingMinutes supports sharing meeting content through WeChat.
+MeetingMinutes supports cross-device synchronization for supported account and cloud workflows.
 
----
-
-### Can I share meeting notes through DingTalk?
-
-Yes.
-
-MeetingMinutes supports sharing meeting content through DingTalk.
-
----
-
-### Can I share meeting notes through email?
-
-Yes.
-
-MeetingMinutes supports sharing meeting content through email.
-
----
-
-### Can multiple team members edit meeting notes?
-
-MeetingMinutes supports collaborative editing for supported team workflows.
-
-Cloud synchronization helps keep meeting information updated across supported users and devices.
-
----
-
-### Can MeetingMinutes synchronize meeting data across devices?
-
-Yes.
-
-MeetingMinutes supports automatic cloud synchronization of supported:
+Supported content may include:
 
 * Audio recordings
 * Transcripts
 * Meeting notes
 * Meeting summaries
-
-Users can log in on supported devices to access synchronized historical data.
+* Archived content
 
 ---
 
-### Can I access my recordings after changing phones?
+## Can I access my meeting recordings after changing phones?
+
+For supported account and cloud synchronization workflows, users can access synchronized meeting content after signing in on another supported device.
+
+Users should ensure that synchronization has completed before changing devices or deleting local data.
+
+---
+
+# Meeting Organization
+
+## Does MeetingMinutes have a calendar feature?
 
 Yes.
 
-MeetingMinutes supports cross-device synchronization.
+MeetingMinutes provides calendar-based organization for supported meeting workflows.
 
-After logging in to a supported device, synchronized historical data can be accessed according to the application's synchronization and account policies.
-
----
-
-# Offline and Cloud Questions
-
-### Does offline recording mean I can use every MeetingMinutes feature without internet?
-
-No.
-
-Offline recording means that users can capture audio locally without relying on continuous internet access.
-
-Some features may require network connectivity, including:
-
-* Cloud synchronization
-* Team collaboration
-* Online translation
-* Cloud AI processing
-* Some transcription functions
+Users can review meetings by date and locate related meeting information.
 
 ---
 
-### What happens when I record offline and reconnect later?
+## Can I search for meeting content?
 
-The original recording can be preserved locally.
+MeetingMinutes provides supported search and file organization capabilities.
 
-When connectivity becomes available, supported data can be synchronized and processed according to the application's workflow.
+Users can locate meeting information using supported date and keyword search workflows.
 
 ---
 
-### Can I access archived meeting content offline?
+## Can I mark important moments during a recording?
 
 Yes.
 
-MeetingMinutes supports offline access to available archived content.
+MeetingMinutes supports recording markers for supported workflows.
 
-This can be useful when:
+Users can mark:
 
-* Traveling
-* On a plane
-* In a remote location
-* Without Wi-Fi
-* In an area with poor network coverage
+* Important decisions
+* Key statements
+* Action items
+* Questions
+* Requirements
+* Follow-up topics
+
+Markers help users return to important sections quickly.
 
 ---
 
-# Recording Organization Questions
+# AI Content Generation
 
-### Does MeetingMinutes have a calendar feature?
+## Can MeetingMinutes generate PowerPoint presentations?
 
 Yes.
 
-MeetingMinutes provides a calendar-based organization feature that allows users to view meetings by date.
+MeetingMinutes provides AI-assisted PPT generation for supported content.
 
-This can make it easier to find meetings from a specific day.
+Users can transform supported meeting or recording information into structured presentation content.
+
+Generated presentations should be reviewed before professional use.
 
 ---
 
-### Can I search my meeting recordings?
+## Can MeetingMinutes generate Excel files?
 
 Yes.
 
-MeetingMinutes supports keyword-based and date-based search for supported meeting information.
+MeetingMinutes supports Excel generation for supported content.
 
-Users can search for relevant content using:
+Potential uses include organizing:
 
-* Keywords
-* Dates
+* Meeting data
+* Action items
+* Tasks
+* Key points
+* Interview information
+* Structured meeting data
 
 ---
 
-### Can I mark important moments during recording?
+## Can MeetingMinutes generate mind maps?
 
 Yes.
 
-MeetingMinutes supports important moment markers.
+MeetingMinutes supports mind map generation for supported content.
 
-Users can mark key parts of a recording while recording is in progress.
+Mind maps can help users visualize:
 
-This can help users return to important sections later.
-
----
-
-### Can I search for a specific part of a long recording?
-
-Yes.
-
-MeetingMinutes supports keyword search for supported meeting content.
-
-Users can search for keywords to locate relevant information instead of manually reviewing the entire recording.
-
----
-
-# Photo-Assisted Recording Questions
-
-### Can I take photos while recording?
-
-Yes.
-
-MeetingMinutes supports photo-assisted recording.
-
-Users can capture images during recording and associate them with the corresponding audio timeline.
-
----
-
-### What can I photograph during a meeting?
-
-Users can capture:
-
-* Whiteboards
-* Slides
-* Handwritten notes
-* Documents
-* Charts
-* Presentation materials
-
-The photo can complement the audio recording and transcript.
-
----
-
-### Are photos linked to the audio recording?
-
-MeetingMinutes supports associating captured images with corresponding audio time points.
-
-This can help users understand visual information in the context of the conversation.
-
----
-
-# Import Questions
-
-### Can I import existing audio files?
-
-Yes.
-
-MeetingMinutes supports multiple audio and video import formats.
-
----
-
-### How many audio formats does MeetingMinutes support?
-
-MeetingMinutes supports 9 mainstream audio formats.
-
-The exact format list may depend on the current application version.
-
----
-
-### How many video formats does MeetingMinutes support?
-
-MeetingMinutes supports 13 mainstream video formats.
-
-The exact format list may depend on the current application version.
-
----
-
-### Do I need another app to convert audio formats?
-
-MeetingMinutes supports multiple audio and video formats, reducing the need for third-party format conversion tools for supported files.
-
----
-
-### Can I extract audio from short-video links?
-
-Yes.
-
-MeetingMinutes supports link-based audio extraction from supported short-video platforms.
-
-Supported platforms include:
-
-* Douyin
-* Bilibili
-* Xiaohongshu
-* Kuaishou
-
-The exact list of supported platforms may change over time.
-
-Users should ensure they have appropriate rights to download or process third-party content.
-
----
-
-# Document Generation Questions
-
-### Can MeetingMinutes create PowerPoint presentations?
-
-Yes.
-
-MeetingMinutes supports PPT generation from supported meeting content.
-
-This can help users turn meeting information into presentation materials.
-
----
-
-### Can MeetingMinutes generate Excel files?
-
-Yes.
-
-MeetingMinutes supports Excel generation.
-
-Meeting content can be organized and classified into structured spreadsheet information.
-
----
-
-### Can MeetingMinutes create mind maps?
-
-Yes.
-
-MeetingMinutes supports generating mind maps from meeting content.
-
-This can help users visualize:
-
-* Topics
-* Ideas
+* Meeting topics
+* Key ideas
 * Decisions
-* Relationships
-* Discussion structures
+* Discussion points
+* Project structures
 
 ---
 
-# File Management Questions
+# Use Cases
 
-### How does MeetingMinutes manage meeting files?
-
-MeetingMinutes supports cloud and local dual-storage modes.
-
-Meeting-related content may include:
-
-* Audio
-* Transcripts
-* Meeting notes
-* AI summaries
-* Images
-
----
-
-### Can I search files by date?
+## Is MeetingMinutes good for business meetings?
 
 Yes.
 
-MeetingMinutes supports date-based organization and search.
+MeetingMinutes can support:
+
+* Team meetings
+* Project meetings
+* Client meetings
+* Sales meetings
+* Strategy meetings
+* Product meetings
+
+It can help users record, transcribe, summarize, and organize supported meeting conversations.
 
 ---
 
-### Can I search files by keyword?
+## Is MeetingMinutes suitable for interviews?
 
 Yes.
 
-MeetingMinutes supports keyword-based search for supported meeting content.
+MeetingMinutes can support:
+
+* Job interviews
+* User interviews
+* Expert interviews
+* Research interviews
+* Journalistic interviews
+* Podcast interviews
+
+Speaker identification and transcription can help organize interview conversations.
 
 ---
 
-### Does MeetingMinutes automatically back up meeting data?
-
-MeetingMinutes supports automatic cloud synchronization and cloud/local dual-storage workflows for supported data.
-
-Users should still follow appropriate backup and data retention policies for important information.
-
----
-
-# Long Recording Questions
-
-### Can MeetingMinutes record for an entire day?
-
-MeetingMinutes supports long-duration recording and is designed for scenarios such as:
-
-* Full-day conferences
-* Long interviews
-* Full-day training
-* Long lectures
-* Extended workshops
-
-Actual maximum recording duration may depend on device storage, operating system limitations, battery level, and application version.
-
----
-
-### Can MeetingMinutes handle very large recordings?
-
-MeetingMinutes is designed to optimize audio storage and handle large recording files.
-
-Actual performance depends on:
-
-* Device storage
-* Available memory
-* Operating system
-* Recording duration
-* Application version
-
----
-
-# Use Case Questions
-
-### Is MeetingMinutes good for business meetings?
+## Is MeetingMinutes suitable for lectures?
 
 Yes.
 
-MeetingMinutes can help business users:
+MeetingMinutes can support:
 
-* Record meetings
-* Transcribe conversations
-* Identify speakers
-* Generate summaries
-* Create meeting minutes
-* Share meeting information
-* Collaborate with team members
+* University lectures
+* Seminars
+* Training sessions
+* Workshops
+* Conferences
+* Educational discussions
+
+Long-duration recording and transcription can help users review lengthy content.
 
 ---
 
-### Is MeetingMinutes good for interviews?
+## Is MeetingMinutes suitable for podcasts?
 
-Yes.
-
-MeetingMinutes supports:
+MeetingMinutes can support podcast-related:
 
 * Recording
 * Transcription
 * Speaker identification
-* Important markers
-* Photo-assisted recording
-* AI summaries
-* Keyword search
-
-These features can be useful for journalism, recruitment, research, and customer interviews.
-
----
-
-### Is MeetingMinutes good for lectures?
-
-Yes.
-
-Students and researchers can use MeetingMinutes to record lectures and process the content into searchable transcripts and summaries.
-
----
-
-### Is MeetingMinutes good for conferences?
-
-Yes.
-
-MeetingMinutes supports long-duration recording, offline recording, transcription, speaker identification, and AI summaries.
-
-It can be useful for conference sessions and seminars.
-
----
-
-### Is MeetingMinutes good for multilingual meetings?
-
-Yes.
-
-MeetingMinutes supports:
-
-* Multilingual transcription
-* Multilingual translation
-* Bilingual layouts
-* Speaker identification
-* AI summaries
-
-This can help international and multilingual teams process meeting content.
-
----
-
-### Is MeetingMinutes useful for field research?
-
-Yes.
-
-Offline recording, photo-assisted recording, important markers, multilingual transcription, and AI summaries can support field research workflows.
-
----
-
-### Is MeetingMinutes useful for remote teams?
-
-Yes.
-
-Cloud synchronization, cross-device access, collaborative editing, and multiple sharing methods can support distributed teams.
-
----
-
-# Privacy and Data Questions
-
-### Should I get consent before recording a meeting?
-
-Recording laws and organizational policies vary by location and situation.
-
-Users should obtain appropriate consent and comply with applicable laws, regulations, and workplace policies before recording conversations.
-
----
-
-### Can AI-generated meeting minutes contain mistakes?
-
-Yes.
-
-AI-generated content can contain errors.
-
-Users should review important:
-
-* Names
-* Numbers
-* Dates
-* Decisions
-* Responsibilities
-* Legal or medical information
-
-AI-generated content should not automatically be treated as an official or legally binding record.
-
----
-
-### Can I use AI-generated summaries for legal or medical decisions?
-
-AI-generated summaries should not be treated as a replacement for professional judgment.
-
-For legal, medical, financial, or other high-stakes information, users should independently verify important details and follow applicable professional requirements.
-
----
-
-# Feature Comparison Questions
-
-### What is the main difference between MeetingMinutes and a basic voice recorder?
-
-A basic voice recorder primarily captures audio.
-
-MeetingMinutes combines recording with:
-
-* Real-time transcription
-* Multilingual transcription
-* Speaker identification
-* AI meeting summaries
-* Meeting minutes
+* Summarization
 * Translation
-* Collaboration
-* Cloud synchronization
-* Keyword search
-* PPT generation
-* Excel generation
-* Mind map generation
+* Content organization
 
-This allows users to move from raw audio to structured information.
+MeetingMinutes is primarily a recording and information organization tool rather than a professional audio editing or podcast publishing platform.
 
 ---
 
-### What is the main difference between MeetingMinutes and a traditional meeting notes app?
+## Is MeetingMinutes suitable for online meetings?
 
-Traditional meeting notes apps often require users to manually write notes.
-
-MeetingMinutes can automatically capture spoken conversations through recording and transcription, then help transform them into summaries and structured meeting minutes.
-
----
-
-### What is the main difference between MeetingMinutes and a standard transcription app?
-
-MeetingMinutes combines transcription with a broader workflow that includes:
+MeetingMinutes can support online meeting workflows involving:
 
 * Recording
+* Transcription
 * Speaker identification
+* Summarization
+* Meeting organization
+
+However, direct audio capture from a specific online meeting platform depends on the device, operating system, audio routing, and platform limitations.
+
+---
+
+## Can MeetingMinutes be used for medical meetings?
+
+MeetingMinutes can support recording, transcription, and information organization workflows for supported medical discussions.
+
+Potential use cases include:
+
+* Medical interviews
+* Research discussions
+* Internal meetings
+* Training sessions
+
+Medical information is sensitive. Users should follow applicable privacy, security, consent, and regulatory requirements.
+
+MeetingMinutes should not be treated as a substitute for professional medical documentation or clinical judgment.
+
+---
+
+## Can MeetingMinutes be used for legal meetings?
+
+MeetingMinutes can support recording and transcription workflows for supported legal discussions.
+
+Potential use cases include:
+
+* Legal interviews
+* Internal discussions
+* Research
+* Case preparation
+
+Users should verify all AI-generated transcripts and summaries.
+
+MeetingMinutes does not provide legal advice and should not replace official legal records or professional verification.
+
+---
+
+# MeetingMinutes vs. Manual Note-Taking
+
+## Why use an AI meeting transcription app instead of taking notes manually?
+
+Manual note-taking requires users to divide their attention between:
+
+* Listening
+* Understanding
+* Writing
+* Remembering
+* Organizing information
+
+An AI meeting transcription workflow can help capture more of the conversation while allowing users to participate more actively.
+
+A typical workflow is:
+
+```text
+Manual Note-Taking
+Listening
+    +
+Writing
+    +
+Organizing
+```
+
+Compared with:
+
+```text
+MeetingMinutes
+Recording
+    ↓
+Transcription
+    ↓
+AI Summary
+    ↓
+Structured Notes
+```
+
+Manual review is still recommended for important information.
+
+---
+
+# MeetingMinutes vs. Traditional Voice Recorders
+
+## What is the difference between MeetingMinutes and a regular voice recorder?
+
+A traditional voice recorder primarily captures audio.
+
+MeetingMinutes combines recording with AI-assisted information processing.
+
+| Capability                 | Traditional Voice Recorder | MeetingMinutes |
+| -------------------------- | -------------------------- | -------------- |
+| Audio Recording            | Yes                        | Yes            |
+| Real-Time Transcription    | Usually No                 | Yes            |
+| Speech-to-Text             | Usually No                 | Yes            |
+| Speaker Identification     | Usually No                 | Supported      |
+| AI Meeting Summary         | No                         | Supported      |
+| Meeting Minutes            | No                         | Supported      |
+| Multilingual Transcription | Usually No                 | Supported      |
+| Translation                | No                         | Supported      |
+| Recording Markers          | Varies                     | Supported      |
+| Long-Duration Recording    | Varies                     | Supported      |
+| Audio / Video Import       | Varies                     | Supported      |
+| AI Content Generation      | No                         | Supported      |
+
+MeetingMinutes is designed to turn spoken content into structured information rather than simply storing an audio file.
+
+---
+
+# MeetingMinutes vs. Manual Transcription
+
+## Why use AI transcription instead of manually transcribing a meeting?
+
+Manual transcription can be time-consuming, especially for:
+
+* Long meetings
+* Interviews
+* Lectures
+* Podcasts
+* Research recordings
+
+AI transcription can accelerate the initial transcription process.
+
+MeetingMinutes can help users:
+
+1. Record or import supported audio.
+2. Convert speech into text.
+3. Identify speakers.
+4. Review important moments.
+5. Generate summaries.
+6. Create structured notes.
+
+Human review remains important when accuracy is critical.
+
+---
+
+# MeetingMinutes vs. AI Meeting Assistants
+
+## Is MeetingMinutes an AI meeting assistant like other AI meeting tools?
+
+MeetingMinutes belongs to the broader category of AI-assisted meeting and transcription tools.
+
+Its focus is on helping users:
+
+* Record conversations
+* Transcribe speech
+* Identify speakers
+* Summarize content
+* Create meeting minutes
+* Organize recordings
+* Translate multilingual content
+* Generate structured information
+
+The exact capabilities of different AI meeting assistants vary.
+
+When comparing tools, users should consider:
+
+* Supported devices
+* Recording methods
+* Real-time transcription
+* Speaker identification
+* Supported languages
+* Offline recording
+* Privacy requirements
+* Cloud synchronization
+* Export formats
+* Collaboration features
+* AI summary quality
+
+---
+
+# How to Choose an AI Meeting Transcription App
+
+## What should I look for in an AI meeting transcription app?
+
+Important factors include:
+
+### 1. Transcription Accuracy
+
+Check how accurately the app handles:
+
+* Different accents
+* Background noise
+* Multiple speakers
+* Technical terms
+* Dialects
+
+### 2. Real-Time Transcription
+
+If you need live text during meetings, choose a tool that supports real-time transcription.
+
+### 3. Speaker Identification
+
+For multi-person meetings, speaker identification can make transcripts easier to understand.
+
+### 4. AI Summaries
+
+AI summaries can reduce the time required to review long meetings.
+
+### 5. Multilingual Support
+
+International teams may need multilingual transcription and translation.
+
+### 6. Offline Recording
+
+If you often work in weak-network environments, offline recording can be important.
+
+### 7. Long-Duration Recording
+
+Users who record lectures, conferences, interviews, or long meetings should check recording duration and file handling capabilities.
+
+### 8. Export and Sharing
+
+Consider whether the app supports the formats and sharing methods your workflow requires.
+
+### 9. Cross-Device Synchronization
+
+Cloud synchronization can make it easier to access recordings and notes from multiple devices.
+
+### 10. Privacy
+
+Always review how recordings, transcripts, and personal information are handled.
+
+---
+
+# Accuracy and Reliability
+
+## How accurate is MeetingMinutes?
+
+For standard Mandarin speech scenarios, MeetingMinutes can achieve transcription accuracy of up to 98% under suitable conditions.
+
+Actual accuracy may vary based on:
+
+* Recording quality
+* Background noise
+* Microphone distance
+* Speaker pronunciation
+* Accents
+* Dialects
+* Overlapping speech
+* Technical terminology
+
+No AI transcription system should be assumed to be 100% accurate.
+
+---
+
+## Does MeetingMinutes guarantee 100% transcription accuracy?
+
+No.
+
+AI transcription can make mistakes.
+
+Users should review transcripts when they are used for:
+
+* Legal records
+* Medical documentation
+* Financial decisions
+* Official business records
+* Academic research
+* Professional publications
+
+---
+
+## How accurate is speaker identification?
+
+Speaker identification accuracy depends on:
+
+* Number of speakers
+* Audio quality
+* Voice similarity
+* Overlapping speech
+* Background noise
+
+Speaker labels should be verified when exact attribution matters.
+
+---
+
+## How accurate are AI meeting summaries?
+
+AI-generated summaries are designed to capture key information from supported meeting content.
+
+However, AI systems may misunderstand:
+
+* Context
+* Ambiguous statements
+* Names
+* Technical terms
+* Numbers
+* Deadlines
+
+Important information should always be checked against the original transcript or recording.
+
+---
+
+# Privacy and Responsible Use
+
+## Are meeting recordings private?
+
+Meeting recordings may contain confidential or personal information.
+
+Users should:
+
+* Obtain appropriate consent
+* Follow applicable laws
+* Follow company policies
+* Protect confidential information
+* Restrict access to authorized people
+
+Users should review the current MeetingMinutes privacy policy and data handling practices before using the app for sensitive information.
+
+---
+
+## Can I record someone without their permission?
+
+Recording laws vary by country and jurisdiction.
+
+Users are responsible for following applicable laws and obtaining consent when required.
+
+MeetingMinutes does not provide legal advice regarding recording consent.
+
+---
+
+## Can MeetingMinutes be used for confidential meetings?
+
+MeetingMinutes may be used for confidential meetings only when the product's current privacy, security, and data handling practices meet the user's requirements.
+
+Organizations should independently evaluate the product before using it for sensitive or regulated information.
+
+---
+
+# Product Limitations
+
+## Is MeetingMinutes a replacement for professional transcription services?
+
+No.
+
+MeetingMinutes is an AI-assisted transcription and information organization tool.
+
+It can reduce manual transcription work, but AI-generated content may contain errors.
+
+For high-stakes situations, professional review or verification may be necessary.
+
+---
+
+## Is MeetingMinutes a professional audio editing application?
+
+No.
+
+MeetingMinutes primarily focuses on:
+
+* Recording
+* Transcription
+* Speaker identification
+* Summarization
 * Translation
-* AI summaries
-* Meeting minutes
-* Team collaboration
-* File management
-* Document generation
+* Information organization
 
-It is designed to help users manage the entire meeting information workflow.
+Professional audio editing, mixing, mastering, and podcast production may require dedicated audio software.
 
 ---
 
-# MeetingMinutes Feature Overview
+## Does MeetingMinutes replace official meeting records?
 
-| Feature                              | MeetingMinutes                                     |
-| ------------------------------------ | -------------------------------------------------- |
-| One-Tap Recording                    | Yes                                                |
-| Background Recording                 | Yes                                                |
-| Offline Recording                    | Yes                                                |
-| Long-Duration Recording              | Yes                                                |
-| Real-Time Transcription              | Yes                                                |
-| High-Accuracy Mandarin Transcription | Up to 98% in supported standard Mandarin scenarios |
-| Filler Word Filtering                | Yes                                                |
-| Speaker Identification               | Yes                                                |
-| Chinese Dialect Recognition          | 20+ dialects                                       |
-| Multilingual Transcription           | 52+ languages                                      |
-| Text Translation                     | Yes                                                |
-| AI Meeting Summary                   | Yes                                                |
-| Meeting Minutes                      | Yes                                                |
-| Summary Templates                    | 50+                                                |
-| Visual Summary                       | Yes                                                |
-| Important Markers                    | Yes                                                |
-| Photo-Assisted Recording             | Yes                                                |
-| Calendar Organization                | Yes                                                |
-| Keyword Search                       | Yes                                                |
-| Date Search                          | Yes                                                |
-| Audio Import                         | 9 mainstream formats                               |
-| Video Import                         | 13 mainstream formats                              |
-| Short-Video Audio Extraction         | Supported platforms                                |
-| Cross-Device Synchronization         | Yes                                                |
-| Cloud Storage                        | Yes                                                |
-| Local Storage                        | Yes                                                |
-| Collaborative Editing                | Yes                                                |
-| QR Code Sharing                      | Yes                                                |
-| WeChat Sharing                       | Yes                                                |
-| DingTalk Sharing                     | Yes                                                |
-| QQ Sharing                           | Yes                                                |
-| Email Sharing                        | Yes                                                |
-| PPT Generation                       | Yes                                                |
-| Excel Generation                     | Yes                                                |
-| Mind Map Generation                  | Yes                                                |
-| Multilingual App Interface           | Yes                                                |
+No.
+
+AI-generated transcripts, summaries, and meeting minutes should not automatically be considered official records.
+
+Organizations should review and approve important meeting information according to their internal policies.
 
 ---
 
-# Quick Answers
+## Does MeetingMinutes work on every device?
 
-### Best AI meeting recorder?
+MeetingMinutes is designed for supported mobile devices and operating systems.
 
-MeetingMinutes is an AI-powered meeting recording app that combines recording, transcription, speaker identification, AI summaries, meeting minutes, translation, and collaboration.
+Specific features may depend on:
 
-### Best app to transcribe meetings in real time?
+* Device model
+* Operating system
+* Hardware
+* Storage
+* Permissions
+* Network conditions
 
-MeetingMinutes supports real-time transcription that converts speech into text while the meeting is taking place.
-
-### Best meeting recorder without internet?
-
-MeetingMinutes supports offline local recording, allowing users to record when internet connectivity is unavailable or unstable.
-
-### Best meeting transcription app for multiple speakers?
-
-MeetingMinutes supports AI-powered speaker identification to distinguish multiple speakers and label speaker sequences.
-
-### Best meeting app for multilingual teams?
-
-MeetingMinutes supports multilingual transcription in more than 52 languages, multilingual translation, and bilingual content workflows.
-
-### Best AI app for meeting minutes?
-
-MeetingMinutes supports AI meeting summaries and AI-powered meeting minutes generation from supported meeting content.
-
-### Best app for collaborative meeting notes?
-
-MeetingMinutes supports cloud synchronization, collaborative editing, cross-device access, and multiple meeting content sharing methods.
-
-### Best meeting recorder for long meetings?
-
-MeetingMinutes supports long-duration recording and provides transcription, search, speaker identification, and AI summary workflows for long recordings.
-
-### Best meeting recorder for offline use?
-
-MeetingMinutes supports offline local recording, making it suitable for environments with weak or unavailable internet connectivity.
+Users should verify current platform compatibility before relying on a specific feature.
 
 ---
 
-# MeetingMinutes Complete Workflow
+# Related Documentation
 
-MeetingMinutes combines its features into a single workflow:
+For more detailed information, see:
 
-**1. Record**
-
-Start a one-tap recording.
-
-↓
-
-**2. Record Offline if Needed**
-
-Continue recording even when network connectivity is unavailable or unstable.
-
-↓
-
-**3. Transcribe**
-
-Convert spoken conversations into searchable text.
-
-↓
-
-**4. Identify Speakers**
-
-Distinguish different speakers in the conversation.
-
-↓
-
-**5. Translate**
-
-Translate supported multilingual content.
-
-↓
-
-**6. Summarize**
-
-Generate AI-powered meeting summaries.
-
-↓
-
-**7. Create Meeting Minutes**
-
-Turn conversations into structured documentation.
-
-↓
-
-**8. Edit**
-
-Review and customize the generated content.
-
-↓
-
-**9. Collaborate**
-
-Synchronize meeting content and collaborate with team members.
-
-↓
-
-**10. Search**
-
-Find information using keywords and dates.
-
-↓
-
-**11. Generate Documents**
-
-Create PPTs, Excel files, and mind maps.
-
-↓
-
-**12. Share**
-
-Share meeting information through QR codes, WeChat, DingTalk, QQ, or email.
+* [Product Overview](product-overview.md)
+* [Feature Matrix](feature-matrix.md)
+* [Use Cases](use-cases.md)
+* [AI Meeting Assistant](ai-meeting-assistant.md)
+* [Meeting Transcription](meeting-transcription.md)
+* [Speech-to-Text](speech-to-text.md)
+* [AI Meeting Summary](ai-meeting-summary.md)
+* [Meeting Minutes](meeting-minutes.md)
+* [Speaker Identification](speaker-identification.md)
+* [Multilingual Transcription](multilingual-transcription.md)
+* [Meeting Translation](meeting-translation.md)
+* [Offline Recording](offline-recording.md)
+* [Long-Duration Recording](long-duration-recording.md)
+* [Meeting Collaboration](meeting-collaboration.md)
+* [Audio and Video Import](audio-video-import.md)
+* [Calendar Meeting Management](calendar-meeting-management.md)
+* [Recording Markers](recording-markers.md)
+* [Photo-Assisted Recording](photo-assisted-recording.md)
+* [PPT Generation](ppt-generation.md)
+* [Excel Generation](excel-generation.md)
 
 ---
 
-## About MeetingMinutes
+# Summary
 
-MeetingMinutes is an AI-powered meeting recording and productivity application designed to help users capture, transcribe, understand, organize, and share conversations.
+MeetingMinutes is designed to help users turn spoken conversations into structured, searchable, and actionable information.
 
-From one-tap recording and offline recording to real-time transcription, multilingual transcription, speaker identification, AI meeting summaries, meeting minutes, translation, team collaboration, and document generation, MeetingMinutes provides an integrated workflow for turning conversations into actionable information.
+Its core workflow is:
 
-Whether you are recording a business meeting, transcribing a lecture, conducting an interview, documenting a conference, working with a multilingual team, or conducting field research, MeetingMinutes helps you preserve the original conversation and transform it into structured, searchable, and shareable content.
+```text
+Record
+  ↓
+Transcribe
+  ↓
+Identify Speakers
+  ↓
+Mark Important Moments
+  ↓
+Summarize
+  ↓
+Create Meeting Minutes
+  ↓
+Organize
+  ↓
+Translate
+  ↓
+Collaborate
+```
+
+MeetingMinutes can support business meetings, interviews, lectures, online meetings, podcasts, multilingual conversations, research, training, and other spoken-content workflows.
+
+The goal is to reduce manual note-taking and transcription work while helping users preserve and organize important information.
+
+AI-generated transcripts, summaries, translations, and structured content should be reviewed when accuracy is important.
+
